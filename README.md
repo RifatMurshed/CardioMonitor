@@ -30,9 +30,7 @@ Here only comment field may be left blank for a record.
 See the [wiki]([https://github.com/SubahNawarMahi/CardiacRecorder_06_18/wiki](https://github.com/RifatMurshed/CardioMonitor/wiki)) for documentation, implementation details, and history.
 
 # Screenshots
-![photo_2023-07-06_01-15-29 (3)](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/dee4f9a3-f00e-42c0-9097-f95b312c9d00)![photo_2023-07-06_01-15-29](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/e4a77a88-bd07-4c72-84b6-021e1ee3bf32)
-![photo_2023-07-06_01-15-29 (2)](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/58234f1c-b036-46a3-9aa2-eebd225e7038)
-![photo_2023-07-06_01-15-29 (4)](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/8c3ccf0e-87f5-4b3d-b67d-21078aad88bf)
+![photo_2023-07-06_01-15-29 (3)](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/dee4f9a3-f00e-42c0-9097-f95b312c9d00)![photo_2023-07-06_01-15-29](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/e4a77a88-bd07-4c72-84b6-021e1ee3bf32)![photo_2023-07-06_01-15-29 (2)](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/58234f1c-b036-46a3-9aa2-eebd225e7038)![photo_2023-07-06_01-15-29 (4)](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/8c3ccf0e-87f5-4b3d-b67d-21078aad88bf)
 
 
 
