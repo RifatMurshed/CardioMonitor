@@ -43,7 +43,7 @@ public class CreateRecord extends AppCompatActivity {
         Button save;
 
         date = findViewById(R.id.date);
-        time = findViewById(R.id.time);
+        time = findViewById(R.id.time);// used to show the real time
         sys = findViewById(R.id.systolic);
         dias = findViewById(R.id.diastolic);
         pul = findViewById(R.id.pulse);
