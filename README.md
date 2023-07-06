@@ -1,6 +1,9 @@
 # CardioMonitor
 The app CardiacRecorder is a blood pressure and heart rate management app. It helps a user to keep track of his/her daily blood pressure and heart rate. The app assists user in data entry to avoid illegal input.Overall it is a simple app with the following features:-
 
+### Overview
+![video_2023-07-06_13-57-23_AdobeExpress](https://github.com/RifatMurshed/CardioMonitor/assets/138694695/3eb1c0cd-9a01-4b9d-a9ee-82ff3f95c714)
+
 1.Show a list of recorded measurements.
 
 2.Users can add new records.
